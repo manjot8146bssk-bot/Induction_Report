@@ -7,3 +7,5 @@ The speeches by the Principal and the other teachers were highly motivating and 
 Shri Ravindra Garg, Shri Rakesh Kumar, and Shri Ashok Singla were our guests. They also inspired us with their speeches.
 
 After that, we were given a tour of the Applied Science Department and its laboratories. The teachers there were very supportive and explained everything to us in detail.
+
+## Day 2
